@@ -1,0 +1,42 @@
+{
+  "allowMovement": {
+    "punchymoves.client.tutorial.TutorialScreen": false,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "dev.diorama.MapScreen": true,
+    "dev.diorama.SettingsScreen": true,
+    "net.mezzdev.config.gui.ConfigScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true,
+    "punchymoves.client.face.FaceCanvasScreen": true,
+    "punchymoves.client.face.ui.ColorPickerScreen": true,
+    "dev.punchy.studio.mc.StudioHostScreen": false,
+    "punchy.client.config.PunchyConfigScreen": false,
+    "dev.dyslexic.cinematic.client.SceneScreen": true,
+    "dev.diorama.ExportScreen": true,
+    "dev.diorama.MapsScreen": true,
+    "dev.diorama.waypoint.WaypointListScreen": true,
+    "dev.diorama.waypoint.WaypointEditScreen": true,
+    "me.pajic.tiered_backpacks.ui.BackpackScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": false,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "com.showthelyrics.gui.LyricsMenuScreen": true,
+    "org.tastytrash.spatialGUI.editor.EditorScreen": true,
+    "dev.jacaranda.mc.ui.JacarandaScreen": false,
+    "com.ji.afkcinematic.config.ConfigScreen": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "punchy.client.menu.mc.NoticeScreen": true
+  },
+  "hideBackground": {
+    "dev.diorama.SettingsScreen": true,
+    "dev.diorama.MapsScreen": true,
+    "dev.diorama.waypoint.WaypointListScreen": true,
+    "dev.diorama.waypoint.WaypointEditScreen": true,
+    "me.pajic.tiered_backpacks.ui.BackpackScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": true,
+    "org.tastytrash.spatialGUI.editor.EditorScreen": true,
+    "dev.jacaranda.mc.ui.JacarandaScreen": true
+  }
+}

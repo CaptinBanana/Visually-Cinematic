@@ -1,0 +1,10 @@
+{
+  "resourcepacks": {
+    "loadDefaultCondition": "NO_OPTIONS_OR_VERSION_FILE",
+    "aliases": {},
+    "defaultProfile": "Visually Cinematic"
+  },
+  "datapacks": {
+    "aliases": {}
+  }
+}

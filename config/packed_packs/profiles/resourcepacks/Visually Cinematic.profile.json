@@ -1,0 +1,25 @@
+{
+  "locked": false,
+  "name": "Visually Cinematic",
+  "description": "Curated texture packs organised for compatibility. \nCredits go to original creators on these texture packs.\n\nFeel free to add in your own packs and remove any.",
+  "overrides": {},
+  "packIds": [
+    "file/§3Fresh §bFlower Pots Rotated.zip",
+    "file/FA+All_Extensions-v1.10.1.zip",
+    "file/HyperPunchy-v2.8.zip",
+    "file/enchant-icons-26.2-v1.3.zip",
+    "file/qrafty\u0027s-capitalized-font-4.1.zip",
+    "file/FreshAnimations_v1.11.2_26.1+.zip",
+    "file/Re-covered.zip",
+    "file/visual_armor_trims_4.3.zip",
+    "file/Shinier Tools.zip",
+    "file/Fresh Buckets.zip",
+    "file/Fluid \u0026 Foolish 1.0.1.zip",
+    "file/§3Fresh §bFlower Pots.zip",
+    "file/Fancy Crops v1.4.zip",
+    "file/Simple Grass Flowers v2.0.0.zip",
+    "file/xali\u0027s Bushy Leaves v3.5.0.zip",
+    "continuity:default",
+    "vanilla"
+  ]
+}
