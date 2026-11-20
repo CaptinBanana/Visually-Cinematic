@@ -1,0 +1,11 @@
+# Never redistribute third-party mods, resource packs, or shaders
+*.jar
+*.zip
+*.mrpack
+
+# Ignore local runtime and user files
+options.txt
+saves/
+logs/
+crash-reports/
+config/packed_packs/__version.json
