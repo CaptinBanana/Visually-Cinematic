@@ -50,7 +50,7 @@ Gameplay additions stay faithful to vanilla progression while rewarding explorat
 
 Heavy visuals shouldn't mean choppy frame rates. Under the hood, the pack runs on a modern Fabric optimisation stack — including **Sodium**, **Lithium**, **C2ME**, **ScalableLux**, **FerriteCore**, **ModernFix-mVUS**, **ImmediatelyFast**, **Async**, **AsyncParticles**, and **Entity/More Culling** — to keep chunk loading snappy and frame pacing consistent.
 
-> **Recommended RAM :** Allocate **6 GB – 8 GB** in your launcher settings (avoid exceeding 10 GB to prevent garbage collection stutter).
+> **Recommended RAM :** Allocate **4 GB – 6 GB** in your launcher settings (avoid exceeding 8 GB to prevent garbage collection stutter).
 
 ---
 
