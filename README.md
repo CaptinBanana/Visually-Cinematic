@@ -1,7 +1,12 @@
+<div align="center">
+<img width="10%" height="10%" alt="Visually Cinematic" src="https://github.com/user-attachments/assets/32b2a946-6550-4009-9099-eb2f8903d508" />
+
 # Visually Cinematic (Fabric 26.3)
 
 [![Fabric](https://img.shields.io/badge/Loader-Fabric%2026.3-blue?style=flat-square)](https://fabricmc.net/)
 [![Modrinth](https://img.shields.io/badge/Modrinth-Visually%20Cinematic-1bd96a?style=flat-square)](https://modrinth.com/modpack/visuallycinematic)
+
+</div>
 
 **Visually Cinematic** is a curated Vanilla+ survival modpack designed to make Minecraft feel like a living, breathing film — without stripping away the charm or progression of the base game. 
 
