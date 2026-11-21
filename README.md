@@ -179,7 +179,6 @@ Heavy visuals shouldn't mean choppy frame rates. Under the hood, the pack runs o
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
 
 </details>
-
 <details>
 <summary><strong>🖥️ UI, HUD & Quality of Life</strong></summary>
 
@@ -217,3 +216,70 @@ Heavy visuals shouldn't mean choppy frame rates. Under the hood, the pack runs o
 * [Packed Packs](https://modrinth.com/mod/packed-packs)
 * [Paginated Advancements & Custom Frames](https://modrinth.com/mod/paginatedadvancements)
 * [Pickup Notifications](https://modrinth.com/mod/pickup-notifications)
+* [Raised](https://modrinth.com/mod/raised)
+* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+* [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
+* [Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)
+* [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
+* [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
+
+</details>
+
+<details>
+<summary><strong>⚡ Performance & Optimisation</strong></summary>
+
+* [Async](https://modrinth.com/mod/async)
+* [AsyncParticles](https://modrinth.com/mod/asyncparticles)
+* [BadOptimizations](https://modrinth.com/mod/badoptimizations)
+* [Chunky](https://modrinth.com/mod/chunky)
+* [Clumps](https://modrinth.com/mod/clumps)
+* [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+* [Debugify](https://modrinth.com/mod/debugify)
+* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+* [Entity Culling](https://modrinth.com/mod/entityculling)
+* [FastQuit](https://modrinth.com/mod/fastquit)
+* [FerriteCore](https://modrinth.com/mod/ferrite-core)
+* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+* [Ixeris](https://modrinth.com/mod/ixeris)
+* [Language Reload](https://modrinth.com/mod/language-reload)
+* [Let Me Despawn](https://modrinth.com/mod/lmd)
+* [Lithium](https://modrinth.com/mod/lithium)
+* [ModernFix-mVUS](https://modrinth.com/mod/modernfix-mvus)
+* [More Culling](https://modrinth.com/mod/moreculling)
+* [Optimized Block Entities [OBE]](https://modrinth.com/mod/obe)
+* [Remove Reloading Screen](https://modrinth.com/mod/rrls)
+* [ScalableLux](https://modrinth.com/mod/scalablelux)
+* [Sodium](https://modrinth.com/mod/sodium)
+* [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+
+</details>
+
+<details>
+<summary><strong>🎨 Shaders & Resource Packs</strong></summary>
+
+* [Complementary Shaders - Reimagined](https://modrinth.com/shaderpack/complementary-reimagined)
+* [(Bee's) Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
+* [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd)
+* [Enchanted Books: Re-covered](https://modrinth.com/resourcepack/enchanted-books-re-covered)
+* [Fluid & Foolish](https://modrinth.com/resourcepack/fluid-foolish)
+* [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+* [Fresh Animations: Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)
+* [Fresh Buckets](https://modrinth.com/resourcepack/fresh-buckets)
+* [Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)
+* [Fresh Flower Pots: Rotated](https://modrinth.com/resourcepack/fresh-flower-pots-rotated)
+* [Hyper Punchy](https://modrinth.com/resourcepack/hyper-punchy)
+* [qrafty's Capitalized Font](https://modrinth.com/resourcepack/qraftys-capitalized-font)
+* [Shinier Tools](https://modrinth.com/resourcepack/shinier-tools)
+* [Simple Grass Flowers](https://modrinth.com/resourcepack/simple-grass-flowers)
+* [Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)
+* [xali's Bushy Leaves](https://modrinth.com/resourcepack/xalis-bushy-leaves)
+
+</details>
+
+---
+
+## 🐛 Issues & Credits
+
+Found a bug, crash, or visual conflict? Open an issue on **[GitHub](https://github.com/CaptinBanana/Visually-Cinematic/issues)** with your pack version, GPU/OS details, and a log link via [mclo.gs](https://mclo.gs/).
+
+All credit for individual mods, shaders, and resource packs belongs to their respective authors.
