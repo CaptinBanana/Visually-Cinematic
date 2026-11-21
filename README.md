@@ -1,5 +1,5 @@
 <div align="center">
-<img width="10%" height="10%" alt="Visually Cinematic" src="https://github.com/user-attachments/assets/32b2a946-6550-4009-9099-eb2f8903d508" />
+<img width="10%" height="10%" alt="Visually Cinematic" src="https://github.com/CaptinBanana/Visually-Cinematic/blob/main/Attachments/Visually%20Cinematic%20Icon.png" />
 
 # Visually Cinematic (Fabric 26.3)
 
