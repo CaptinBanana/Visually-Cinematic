@@ -275,7 +275,7 @@ Heavy visuals shouldn't mean choppy frame rates. Under the hood, the pack runs o
 * [Hyper Punchy](https://modrinth.com/resourcepack/hyper-punchy)
 * [qrafty's Capitalized Font](https://modrinth.com/resourcepack/qraftys-capitalized-font)
 * [Shinier Tools](https://modrinth.com/resourcepack/shinier-tools)
-* [Simple Grass Flowers](https://modrinth.com/resourcepack/simple-grass-flowers)
+* [Os' Colorful Grassess](https://modrinth.com/resourcepack/os-colorful-grasses)
 * [Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)
 * [xali's Bushy Leaves](https://modrinth.com/resourcepack/xalis-bushy-leaves)
 
